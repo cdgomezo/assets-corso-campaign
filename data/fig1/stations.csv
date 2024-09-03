@@ -1,0 +1,36 @@
+code,name,country,lat,lon,alt,height,corso,base_type,corso_type,corso_intg,ha,va
+BIK,Bialystok,PL,53.2294,23.0128,183.0,300.0,1,,hrly,,right,bottom
+BIR,Birkenes,NO,58.3886,8.2519,219.0,75.0,0,,,,right,bottom
+CBW,Cabauw,NL,51.9703,4.9264,0.0,207.0,1,intg,hrly,,right,bottom
+CMN,Monte Cimone,IT,44.1936,10.6999,2165.0,8.0,0,,,,right,top
+GAT,Gartow,DE,53.0657,11.4429,70.0,341.0,1,intg,hrly,,right,bottom
+HEL,Helgoland,DE,54.1804,7.8833,43.0,110.0,0,,,,right,bottom
+HFD,Heathfield,,50.977,0.231,157.3,100.0,1,,hrly,,right,bottom
+HPB,Hohenpeissenberg,DE,47.8011,11.0246,934.0,131.0,1,intg,hrly,,right,bottom
+HTM,Hyltemossa,SE,56.0976,13.4189,115.0,150.0,1,intg,hrly,,right,bottom
+IPR,Ispra,IT,45.8147,8.636,210.0,100.0,0,,,,left,top
+JFJ,Jungfraujoch,CH,46.5475,7.9851,3571.8,13.9,0,intg,,intg,right,bottom
+JUE,Jülich,DE,50.9102,6.4096,98.0,120.0,0,,,,right,top
+KIT,Karlsruhe,DE,49.0915,8.4249,110.0,200.0,1,intg,hrly,,right,bottom
+KRE,Křešín u Pacova,CZ,49.572,15.08,534.0,250.0,1,intg,hrly,,right,bottom
+LIN,Lindenberg,DE,52.1663,14.1226,73.0,98.0,1,intg,hrly,,right,bottom
+LMP,Lampedusa,IT,35.5181,12.6322,45.0,8.0,0,,,,right,bottom
+LUT,Lutjewad,NL,53.4036,6.3528,1.0,60.0,0,,,,right,bottom
+MHD,Mace Head,IE,53.3261,-9.9036,5.0,24.0,1,,intg,intg,right,bottom
+NOR,Norunda,SE,60.0864,17.4794,46.0,100.0,0,intg,,intg,right,bottom
+OPE,Observatoire pérenne de l'environnement,FR,48.5619,5.5036,390.0,120.0,1,intg,hrly,,right,bottom
+OXK,Ochsenkopf,DE,50.03,11.8083,1022.0,163.0,0,intg,,intg,right,bottom
+PAL,Pallas,FI,67.9733,24.1157,565.0,12.0,0,intg,,intg,right,bottom
+PRS,Plateau Rosa,IT,45.93,7.7,3480.0,10.0,0,,,,right,top
+PUI,Puijo,FI,62.9096,27.6549,232.0,84.0,0,,,,right,bottom
+PUY,Puy de Dôme,FR,45.7719,2.9658,1465.0,10.0,0,,,,right,bottom
+SAC,Saclay,FR,48.7227,2.142,160.0,100.0,0,intg,,intg,right,bottom
+SMR,Hyytiälä,FI,61.8474,24.2947,181.0,125.0,0,,,,right,bottom
+STE,Steinkimmen,DE,53.0431,8.4588,29.0,252.0,1,intg,hrly,,right,top
+SVB,Svartberget,SE,64.256,19.775,269.0,150.0,0,intg,,intg,right,bottom
+TOH,Torfhaus,DE,51.8088,10.535,801.0,147.0,0,,,,right,top
+TRN,Trainou,FR,47.9647,2.1125,131.0,180.0,1,intg,hrly,,right,top
+UTO,Utö - Baltic sea,FI,59.7839,21.3672,8.0,57.0,0,,,,right,bottom
+WAO,Weybourne,GB,52.95,1.121,31.0,10.0,0,,,,right,bottom
+WES,Westerland,DE,54.9231,8.308,12.0,14.0,0,,,,right,bottom
+ZSF,Zugspitze,DE,47.4165,10.9796,2666.0,3.0,0,,,,right,top

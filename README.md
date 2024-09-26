@@ -1,3 +1,5 @@
+[![DOI](https://zenodo.org/badge/851677443.svg)](https://zenodo.org/doi/10.5281/zenodo.13842604)
+
 # Figures: Preparing for an extensive $\chem{\Delta^{14}\text{CO}_2}$ flask sample monitoring campaign over Europe to constrain fossil $\chem{\text{CO}_2}$ emissions
 
 Abstract: During 2024, an intensive $\chem{\Delta^{14}\text{CO}_2}$ flask sampling campaign is being conducted at 12 sampling stations across Europe as part of the CO2MVS Research on Supplementary Observations (CORSO) project. These $\chem{\Delta^{14}\text{CO}_2}$ samples, combined with $\chem{\text{CO}_2}$ atmospheric measurements, are intended to enhance the estimation of fossil $\chem{\text{CO}_2}$ emissions over Europe through inverse modeling. In this study, we perform a series of Observing System Simulation Experiments (OSSEs) to evaluate the added value of such an intensive campaign as well as the different sampling strategies in estimating fossil fuel emissions. These strategies focus on selecting samples for inversions based on their fossil $\chem{\text{CO}_2}$ and nuclear $\chem{^{14}\text{C}}$ composition.

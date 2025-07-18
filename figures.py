@@ -367,11 +367,11 @@ def getRegion(reg):
     }
 
     if len(reg)>3:
-        lndmsk = open_dataset('/home/carlosg/lu2023-12-19/carlos/scripts/NUTS_RG_20M_2021_3857_05deg.nc')
+        lndmsk = open_dataset('/home/carlosg/lu2023-12-19/carlos/scripts/NUTS/NUTS_RG_20M_2021_3857_05deg.nc')
         idx = [where(lndmsk['country_ID'] == i)[0][0] for i in Regions[reg]]
         reg_mask = sum([lndmsk.country_fraction[i] for i in idx])
     else:
-        lndmsk = open_dataset('/home/carlosg/lu2023-12-19/carlos/scripts/NUTS_RG_20M_2021_3857_05deg.nc')
+        lndmsk = open_dataset('/home/carlosg/lu2023-12-19/carlos/scripts/NUTS/NUTS_RG_20M_2021_3857_05deg.nc')
         i = where(lndmsk['country_ID'] == reg)[0][0]
         reg_mask = lndmsk.country_fraction[i]
 
